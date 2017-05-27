@@ -1,7 +1,7 @@
-```
+
 nebulae by [philidor green](http://philidor-green.me)
 based on blaque magick by [xero harrison](http://blaquemagick.xero.nu)
-```
+
 
 ![](http://i.imgur.com/8ikJKqz.png)
 
